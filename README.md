@@ -1,2 +1,2 @@
 # Music
-Music
+![Music](music.png)
